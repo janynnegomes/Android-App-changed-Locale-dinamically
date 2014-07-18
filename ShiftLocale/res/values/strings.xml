@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shift Locale</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set_locale_button">Set locale</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="home_text_quote">The only way to do great work is to love what you do. (Steve Jobs)</string>
+	<string name="call_second_activity_button">Call second activity</string>
+</resources>

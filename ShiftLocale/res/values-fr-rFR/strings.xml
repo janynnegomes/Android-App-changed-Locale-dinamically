@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maj Locale</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="set_locale_button">Réglez les paramètres régionaux</string>
+    <string name="title_activity_second">Deuxième activité</string>
+    <string name="home_text_quote">La seule façon de faire un excellent travail, c\'est d\'aimer ce que vous faites. (Steve Jobs)</string>
+	<string name="call_second_activity_button">Appelez deuxième écran</string>
+</resources>
